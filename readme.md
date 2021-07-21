@@ -13,3 +13,5 @@ https://github.com/OPUS-Microsystems/3DSLiM-SDK
 https://drive.google.com/file/d/10BvbLZ6dLxMSAzKxaOKg69358u8MThji/view?usp=sharing
 
 https://api.shareit.com/download/736996173/0a5691ed313c4e28a10067af5dd90235?filename=tgf-std.zip
+啟動產品的授權金鑰： 
+TGF1-433C-84DC-5B3F-DB61-564A-69DE-9CB7-26F9-9BE8-C12A-B978-3138-D779-9FDD
